@@ -18,11 +18,11 @@ The dashboard provides a comprehensive analysis of BlinkIT’s sales performance
 
 ⏳ Time-Based Analysis – Trends over time to capture seasonality and demand fluctuations.
 
-# ataset
+# Dataset
 
 The dataset used (BlinkIT Grocery Data.xlsx) contains records of products, sales, outlets, and customer-related attributes. I performed data cleaning and transformation using Power Query in Power BI before building the visuals.
 
-#Tools Used
+# Tools Used
 
 Power BI Desktop – Data modeling and dashboard creation
 
@@ -30,7 +30,7 @@ Excel dataset – As the data source
 
 Power Query – For preprocessing and transformations
 
-#Learning Outcomes
+# Learning Outcomes
 
 Hands-on experience in data visualization with Power BI
 
@@ -40,7 +40,7 @@ Practical exposure to real-world sales data analysis
 
 Improved ability to present data-driven findings clearly and visually
 
-#How to Use
+# How to Use
 
 Download the .pbix file from this repository.
 
